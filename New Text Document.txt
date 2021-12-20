@@ -1,0 +1,4 @@
+interview quesions:
+answer:
+output random answer 
+هيخرج اجابه عشؤائيه لان unsigned لانه ارقام موجبه فقط ولا يدعم السالبز
